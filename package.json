@@ -1,14 +1,14 @@
 {
-  "name": "commandcleanup",
+  "name": "razcleanup",
   "version": "2.0.3",
-  "description": "Discord.js CommandCleanup bot",
+  "description": "Discord.js RazCleanup bot",
   "main": "./index.js",
   "keywords": [
     "discord.js",
-    "commandcleanup",
-    "fataussiefatboy"
+    "razcleanup",
+    "raziel_stratton"
   ],
-  "author": "FatAussieFatBoy",
+  "author": "Raziel_Stratton",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.0.0",
