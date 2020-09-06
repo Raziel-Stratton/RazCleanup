@@ -1,6 +1,6 @@
 module.exports = {
     /** Bot owner(s)  */
-    owner: ['253006486349938688'],
+    owner: ['702348592853024828'],
 
     /** Bot admin user ids, can reboot the bot and inherits support permissions */
     admins: [''],
