@@ -1,3 +1,4 @@
+var auth = require('auth.json');
 const { ShardingManager } = require('discord.js');
 const token = process.env.DISCORD_TOKEN;
 const ConsoleHandler = require('./src/util/ConsoleHandler');

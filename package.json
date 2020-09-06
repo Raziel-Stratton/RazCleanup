@@ -9,12 +9,23 @@
     "raziel_stratton"
   ],
   "author": "Raziel_Stratton",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.0.0",
     "dblapi.js": "^2.4.0",
     "discord.js": "^12.2.0",
     "discord.js-commando": "github:discordjs/Commando",
     "pretty-ms": "^7.0.0"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raziel-Stratton/RazCleanup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Raziel-Stratton/RazCleanup/issues"
+  },
+  "homepage": "https://github.com/Raziel-Stratton/RazCleanup#readme"
 }

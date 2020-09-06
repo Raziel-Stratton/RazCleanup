@@ -16,4 +16,5 @@ module.exports = {
 
     /** Error logging channel */
     errorLogChannel: 'channel'
+
 };
